@@ -1,5 +1,29 @@
 # Getting started with Python
 
+        you-get -o ./you_get/ -O 11 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=11'
+        you-get -o ./you_get/ -O 12 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=12'
+        you-get -o ./you_get/ -O 13 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=13'
+        you-get -o ./you_get/ -O 14 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=14'
+        you-get -o ./you_get/ -O 15 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=15'
+        you-get -o ./you_get/ -O 16 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=16'
+        you-get -o ./you_get/ -O 17 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=17'
+        you-get -o ./you_get/ -O 18 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=18'
+        you-get -o ./you_get/ -O 19 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=19'
+        you-get -o ./you_get/ -O 20 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=20'
+        
+        you-get -o ./you_get/ -O 21 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=21'
+        you-get -o ./you_get/ -O 22 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=22'
+        you-get -o ./you_get/ -O 23 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=23'
+        you-get -o ./you_get/ -O 24 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=24'
+        you-get -o ./you_get/ -O 25 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=25'
+        you-get -o ./you_get/ -O 26 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=26'
+        you-get -o ./you_get/ -O 27 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=27'
+        you-get -o ./you_get/ -O 28 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=28'
+        you-get -o ./you_get/ -O 29 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=29'
+        you-get -o ./you_get/ -O 30 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=30'
+        
+        you-get -o ./you_get/ -O 31 --debug 'https://www.bilibili.com/video/BV1qa4y1Y7CD?p=31'
+
 ## Overview
 
 These threes series on Channel 9 and YouTube are designed to help get you up to speed on Python. If you're a beginning developer looking to add Python to your quiver of languages, or trying to get started on a data science or web project which uses Python, these videos are here to help show you the foundations necessary to walk through a tutorial or other quick start.
