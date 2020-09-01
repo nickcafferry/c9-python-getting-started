@@ -23,7 +23,7 @@ jobs:
         echo "=========================="
         pip3 install you-get
         export PATH="$PATH:/home/runner/.local/bin:/home/runner/you_get"
-        you-get -o ./you_get/ --playlist 'https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-'
+        you-get -o ./you_get/ --debug 'https://www.youtube.com/playlist?list=PLlrxD0HtieHhHnCUVtR8UHS7eLl33zfJ-'
         
         ls
         echo '============================================='
@@ -43,7 +43,7 @@ jobs:
         git config --global user.email "ucecwme@ucl.ac.uk"
         git config --global user.name "nickcafferry"
         git init
-        cd /source/assets/videos/EvenmoPython
+        cd source/assets/videos/EvenmoPython
         git add -A
         git status 
         cd ../../../../
